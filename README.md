@@ -8,7 +8,7 @@
 A backend developer passionate about what he does
 
 - 🔭 I am currently looking for an internship  
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning SalesForce
 - 👨‍🎓 Studying Internet Systems at FATEC
 
 
@@ -19,7 +19,7 @@ A backend developer passionate about what he does
 
   
 
-- 💬 Ask me anything about to Java
+- 💬 Ask me anything about to SalesForce
 - 👨‍💻 All of my projects are available at: https://github.com/LuanMaqs
 - ⚡ A fact: studying changed my life 
 
