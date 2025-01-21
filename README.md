@@ -23,15 +23,6 @@ A backend developer passionate about what he does
 - 👨‍💻 All of my projects are available at: https://github.com/LuanMaqs
 - ⚡ A fact: studying changed my life 
 
- ## Some technologies
-<div align="center">
- <br>
-<img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-<br>
-</div>
 
 
 <picture>
