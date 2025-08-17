@@ -5,11 +5,13 @@
 
 ### Hello, wellcome to my profile.
 
-A backend developer passionate about what he does
-
-- 🔭 I am currently looking for an internship  
-- 🌱 I’m currently learning SalesForce
-- 👨‍🎓 Studying Internet Systems at FATEC
+- A backend developer passionate about what he does
+- 🔭 Looking for my first role as a developer
+- 🌱 Currently learning Salesforce Development (Apex, LWC, Flows, Automation), nodeJS and express
+- 📍 Based in Portugal
+- 💬 Open to collaborate on Salesforce and backend projects
+- 👨‍💻 All of my projects are available here: [GitHub repositories](https://github.com/LuanMaqs?tab=repositories)
+- ⚡ Fun fact: studying technology changed my life
 
 
 ---
@@ -19,7 +21,7 @@ A backend developer passionate about what he does
 
   
 
-- 💬 Ask me anything about to SalesForce
+- 💬 Ask me anything about to SalesForce, express or nodeJS
 - 👨‍💻 All of my projects are available at: https://github.com/LuanMaqs
 - ⚡ A fact: studying changed my life 
 
